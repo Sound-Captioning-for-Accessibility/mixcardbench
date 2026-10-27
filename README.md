@@ -1,14 +1,14 @@
-# mixcards-eval
+# MixCardBench
 
-Prompts and scoring for the MixCards benchmark.
+Prompts and scoring for **MixCardBench** from the paper **MixCards: Evaluating Structured Descriptions of Multi-Source Sound Scenes**.
 
 A model hears a 10-second scene mixing speech, music and sound effects, and answers in two stages:
 
-- **Stage 1 (inventory):** list every distinct sound source and the time spans it is audible.
-- **Stage 2 (cards):** for each source, fill a card of fixed fields (loudness, a ten-band frequency
+- **Stage 1 (sound event detection):** list every distinct sound source and the time spans it is audible.
+- **Stage 2 (MixCards):** for each source, fill a card of fixed fields (loudness, a ten-band frequency
   profile, tags, captions, and per-modality fields such as median F0 or tempo).
 
-This package gives you the prompts, and scores the answers against the reference.
+This package gives you the prompts and scores the answers against the reference.
 
 ## Install
 
