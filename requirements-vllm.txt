@@ -1,0 +1,5 @@
+# Scoring with the judge loaded in-process (the default, and how the reported numbers were made).
+# vllm 0.24.0 pulls torch 2.11 built for CUDA 13.0, which needs an NVIDIA driver >= 580.
+-r requirements.txt
+vllm==0.24.0
+transformers>=5.12

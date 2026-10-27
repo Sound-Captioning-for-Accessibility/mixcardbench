@@ -1,0 +1,5 @@
+# Scoring with an API judge (OpenAI, Gemini, a `vllm serve` endpoint). No GPU needed.
+numpy>=2.0
+scipy>=1.13
+datasets>=3.0
+json_repair>=0.30

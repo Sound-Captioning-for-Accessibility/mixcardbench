@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mixcards-eval"
+version = "0.1.0"
+readme = "README.md"
+description = "Prompts and scoring for the MixCards audio-scene benchmark"
+requires-python = ">=3.12"
+dependencies = ["numpy>=2.0", "scipy>=1.13", "datasets>=3.0", "json_repair>=0.30"]
+
+[project.optional-dependencies]
+vllm = ["vllm==0.24.0", "transformers>=5.12"]
+
+[project.scripts]
+mixcards-eval = "mixcards_eval.cli:main"
+
+[tool.setuptools]
+# The modules sit at the repository root and install as the package `mixcards_eval`.
+packages = ["mixcards_eval"]
+package-dir = {"mixcards_eval" = "."}
