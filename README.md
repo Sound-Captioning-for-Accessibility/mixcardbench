@@ -1,6 +1,6 @@
 # MixCards: Evaluating Structured Descriptions of Multi-source Sound Scenes
 
-[**Demo**](https://mixcards-anon.github.io/mixcards-demo/)
+[**Demo**](https://mixcards-anon.github.io/mixcards-demo/) | [**Dataset (Zenodo)**](https://doi.org/10.5281/zenodo.23702059) | [**Dataset (Hugging Face)**](https://huggingface.co/datasets/MARL-NYU/MixCardsBench)
 
 This repo includes evaluation code for MixCardBench, a benchmark dataset for structured descriptions of multi-source sound scenes.
 
