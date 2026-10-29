@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.2in" height="7.0in" viewBox="0 0 2820 700">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="4" markerHeight="4" markerUnits="strokeWidth" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555555"/></marker></defs>
+<rect width="2820" height="700" rx="24" fill="#F5F5F5"/>
+<g transform="translate(30,28)">
+<path d="M2,255 A160.0,28 0 0 1 322,255 L322,369 A160.0,28 0 0 1 2,369 Z" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<path d="M2,255 A160.0,28 0 0 0 322,255" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+<text x="162.0" y="344" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" fill="#1A1A1A" text-anchor="middle">AudioSet-SL</text>
+<path d="M322,312 L562,312" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<text x="442.0" y="298" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="37" fill="#555555" text-anchor="middle">Audio,</text>
+<text x="442.0" y="354" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="37" fill="#555555" text-anchor="middle">Timestamps</text>
+<rect x="562" y="247" width="290" height="130" rx="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<text x="707.0" y="301.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Source</text>
+<text x="707.0" y="355.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Separation</text>
+<text x="707.0" y="417" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">SAM Audio [1]</text>
+<path d="M852,312 L992,312" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<text x="922.0" y="298" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="37" fill="#555555" text-anchor="middle">Stems</text>
+<rect x="992" y="247" width="210" height="130" rx="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<text x="1097.0" y="301.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Quality</text>
+<text x="1097.0" y="355.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Filter</text>
+<path d="M1202,312 L1242,312" fill="none" stroke="#555555" stroke-width="4"/>
+<path d="M1242,122 L1242,490" fill="none" stroke="#555555" stroke-width="4"/>
+<path d="M1242,122 L1282,122" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M1242,312 L1282,312" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M1242,490 L1282,490" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="1282" y="77" width="190" height="90" rx="14" fill="#3B6EA8" fill-opacity="0.15" stroke="#3B6EA8" stroke-width="3"/>
+<text x="1377.0" y="138.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Speech</text>
+<path d="M1472,122 L1527,122" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="1282" y="267" width="190" height="90" rx="14" fill="#C98500" fill-opacity="0.15" stroke="#C98500" stroke-width="3"/>
+<text x="1377.0" y="328.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Music</text>
+<path d="M1472,312 L1527,312" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="1282" y="445" width="190" height="90" rx="14" fill="#1A9A73" fill-opacity="0.15" stroke="#1A9A73" stroke-width="3"/>
+<text x="1377.0" y="506.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Sfx</text>
+<path d="M1472,490 L1527,490" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="1527" y="77" width="360" height="90" rx="14" fill="#FFFFFF" stroke="#9E9E9E" stroke-width="2"/>
+<text x="1707.0" y="138.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Clone</text>
+<text x="1707.0" y="207" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">Vevo-Timbre [2]</text>
+<text x="1707.0" y="246" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">LibriTTS-R, VCTK</text>
+<rect x="1527" y="267" width="360" height="90" rx="14" fill="#FFFFFF" stroke="#9E9E9E" stroke-width="2"/>
+<text x="1707.0" y="328.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Sample sim.</text>
+<text x="1707.0" y="397" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">MULE [3], FMA [4]</text>
+<rect x="1527" y="445" width="360" height="90" rx="14" fill="#FFFFFF" stroke="#9E9E9E" stroke-width="2"/>
+<text x="1707.0" y="506.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Metadata sim.</text>
+<text x="1707.0" y="575" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">PE-A-Frame, PE-AV [5]</text>
+<text x="1707.0" y="614" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">Pro Sound Effects [6]</text>
+<path d="M1887,122 L1942,122" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="1942" y="67" width="210" height="110" rx="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<text x="2047.0" y="111.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Quality</text>
+<text x="2047.0" y="165.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Filter</text>
+<path d="M2152,122 L2192,122" fill="none" stroke="#555555" stroke-width="4"/>
+<path d="M1887,490 L1942,490" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="1942" y="435" width="210" height="110" rx="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<text x="2047.0" y="479.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Quality</text>
+<text x="2047.0" y="533.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Filter</text>
+<path d="M2152,490 L2192,490" fill="none" stroke="#555555" stroke-width="4"/>
+<path d="M1887,312 L2192,312" fill="none" stroke="#555555" stroke-width="4"/>
+<path d="M2192,122 L2192,490" fill="none" stroke="#555555" stroke-width="4"/>
+<path d="M2192,312 L2232,312" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M2192,490 L2232,490" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="2232" y="252" width="190" height="120" rx="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<text x="2327.0" y="328.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">Mixer</text>
+<rect x="2232" y="425" width="190" height="130" rx="14" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="3"/>
+<text x="2327.0" y="479.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">LALM</text>
+<text x="2327.0" y="533.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="normal" fill="#1A1A1A" text-anchor="middle">+ LLM</text>
+<text x="2327.0" y="595" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">Qwen3-Omni +</text>
+<text x="2327.0" y="634" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="35" fill="#555555" text-anchor="middle">Qwen3.6</text>
+<path d="M2422,312 L2477,312" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<path d="M2422,490 L2477,490" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="2477" y="227" width="280" height="170" rx="14" fill="#CB0001" />
+<text x="2617.0" y="274.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">High</text>
+<text x="2617.0" y="328.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Quality</text>
+<text x="2617.0" y="382.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Mixes</text>
+<rect x="2477" y="445" width="280" height="90" rx="14" fill="#CB0001" />
+<text x="2617.0" y="506.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">MixCards</text>
+<path d="M162.0,227 L162.0,50 L2327.0,50 L2327.0,252" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#ah)"/>
+<text x="1244.5" y="30" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="37" fill="#555555" text-anchor="middle">Loudness Profiles</text>
+</g>
+</svg>

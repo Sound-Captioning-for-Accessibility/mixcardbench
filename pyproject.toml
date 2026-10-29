@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "mixcards-eval"
 version = "0.1.0"
 readme = "README.md"
+license = "MIT"
 description = "Prompts and scoring for the MixCards audio-scene benchmark"
 requires-python = ">=3.12"
 dependencies = ["numpy>=2.0", "scipy>=1.13", "datasets>=3.0", "json_repair>=0.30"]
