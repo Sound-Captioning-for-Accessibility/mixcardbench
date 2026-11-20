@@ -1,6 +1,6 @@
 # MixCards: Evaluating Structured Descriptions of Multi-source Sound Scenes
 
-[**Paper**](https://doi.org/10.48550/arXiv.2610.38276) | [**Demo**](https://mixcards-anon.github.io/mixcards-demo/) | [**Dataset (Zenodo)**](https://doi.org/10.5281/zenodo.23702059) | [**Dataset (Hugging Face)**](https://huggingface.co/datasets/MARL-NYU/MixCardsBench)
+📄 [**Paper**](https://doi.org/10.48550/arXiv.2610.38276) | 🎧 [**Demo**](https://mixcards-anon.github.io/mixcards-demo/) | 💾 [**Dataset (Zenodo)**](https://doi.org/10.5281/zenodo.23702059) | 🤗 [**Dataset (Hugging Face)**](https://huggingface.co/datasets/MARL-NYU/MixCardsBench)
 
 This repo includes evaluation code for MixCardBench, a benchmark dataset for structured descriptions of multi-source sound scenes.
 
@@ -153,3 +153,16 @@ This code is released under the [MIT License](LICENSE).
 4. Defferrard et al., "FMA: A Dataset for Music Analysis," ISMIR 2017.
 5. Vyas et al., "Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning," CVPR 2026.
 6. Pro Sound Effects, "Pro Sound Effects Library," prosoundeffects.com, 2026.
+
+## Citation
+
+If you use MixCardBench, please cite:
+
+```bibtex
+@article{sridhar2026mixcards,
+  title={MixCards: Evaluating Structured Descriptions of Multi-Source Sound Scenes},
+  author={Sridhar, Sripathi and Kim, Yujin and Morais, Giovana and Wu, Liang-Yuan and Kucukoglu, Mehmet Atilay and Seetharaman, Prem and May, Lloyd and Cartwright, Mark and Fuentes, Magdalena},
+  journal={arXiv preprint arXiv:2610.38276},
+  year={2026}
+}
+```
